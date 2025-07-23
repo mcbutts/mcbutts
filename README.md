@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Moya Butts
 - 👀 I’m interested in Information Technology and Cybersecurity
-- 🌱 I’m currently learning C++ and taking the class Fundamentals of Programming at Florida A&M University.
+- 🌱 I’m currently studying Information Technology at Florida A&M University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me personal: moyacbutts@gmail.com | school: moya1.butts@famu.edu
+- 📫 How to reach me personal: moyabutts@gmail.com | school: moya1.butts@famu.edu | linkedin: Moya Butts
 
 <!---
 mcbutts/mcbutts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
